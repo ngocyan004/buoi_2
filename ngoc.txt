@@ -1,3 +1,7 @@
 ngoc xin chao ae 
 anh ae
 chao nha
+
+
+
+he so cua fibonaci
